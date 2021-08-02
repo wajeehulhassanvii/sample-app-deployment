@@ -1,4 +1,4 @@
-# Sample Application Deployment
+# Deplopying the app with ArgoCD
 
 The repository contains Kubernetes manifests that defines the deployment of the
 [sample application](https://github.com/gitopsbook/sample-app) using ArgoCD.
