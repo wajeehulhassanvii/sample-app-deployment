@@ -1,7 +1,7 @@
 # Sample Application Deployment
 
 The repository contains Kubernetes manifests that defines the deployment of the
-[sample application](https://github.com/gitopsbook/sample-app).
+[sample application](https://github.com/gitopsbook/sample-app) using ArgoCD.
 
 To deploy the application manually run the following command:
 
